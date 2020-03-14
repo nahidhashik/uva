@@ -1,5 +1,5 @@
 //Number Theory
-//big mod basic problem-UVA374 Big Mod with c++
+//big mod algorithm basic problem-UVA374 Big Mod with c++
 
 #include<iostream>
 #include<bits/stdc++.h>
